@@ -1,5 +1,6 @@
 function comprar() {
     
+    //declaração das variaveis
     let tipoIngresso = document.getElementById('tipo-ingresso');
     let QuantidadeIngresso = document.getElementById('qtd').value;    
     let saldoIngressos;
